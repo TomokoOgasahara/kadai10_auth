@@ -9,8 +9,8 @@ function db_conn(){
     try {
         $db_name = 'wom-tech_kadai08_db1';
         $db_host = 'mysql3101.db.sakura.ne.jp';
-        $db_id = 'wom-tech';
-        $db_pw = 'Tomoko_24';     
+        $db_id = '***';
+        $db_pw = '***';     
         
         // $db_name = "gs_db";    //データベース名
         // $db_id   = "root";      //アカウント名
